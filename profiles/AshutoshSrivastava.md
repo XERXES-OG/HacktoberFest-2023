@@ -20,7 +20,7 @@ B.Tech in Computer Science
 
 ### Projects
 
-- [Portfolio](https://ashutoshsri.netlify.app) My Portfolio Website.
+- [Portfolio](https://ashutoshsri.netlify.app) My Portfolio Website
 
 ### Profile Link
 
